@@ -3,6 +3,7 @@ body {
 	max-width: 800px;
 	margin:0 auto;
 	padding: 10px;
+	font-size: 16px;
 }
 
 #header {
@@ -19,30 +20,33 @@ h1,h2,h3,h4 {
 
 h1 {
 	color: #000;
+	font-size: 250%;
 	letter-spacing: .1em;
 	text-shadow: 2px 2px #d3d3d3;
 	font-weight: 100;
 }
 
 h2 {
-	font-size: 1.3em;
+	font-size: 200%;
 	font-weight: 10;
 }
 
 h3 {
-	font-size: 1em;
+	font-size: 180%;
 	color: #646464;
 	font-weight: 10;
 }
 
 p,ul,li {
 	font-family: 'Inconsolata', monospace;
+	font-size: 120%;
+	line-height: 1.2;
 }
 
 img {
 	width: 100%;
 	display: block;
-    margin: 0 auto;
+    	margin: 0 auto;
 }
 
 hr {
