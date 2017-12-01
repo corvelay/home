@@ -1,6 +1,7 @@
 body {
 	background-color: #f9f9f9;;
 	max-width: 800px;
+	border-top: 5px solid #000;
 	margin:0 auto;
 	padding: 10px;
 	font-size: 16px;
@@ -8,8 +9,6 @@ body {
 
 #header {
 	text-align: center;
-	background-image: url("../images/bkg-min.png");
-
 }
 
 #main {
