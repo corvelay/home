@@ -16,6 +16,10 @@ body {
 	padding-top: 10px;
 }
 
+#address {
+	text-align: center;
+}
+
 h1,h2,h3,h4 {
 	font-family: 'Merriweather', sans-serif;
 }
